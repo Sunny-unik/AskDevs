@@ -1,0 +1,14 @@
+{
+  "name": "Sunny Gandhwani",
+  "bio": "Full Stack Developer",
+  "image": "https://avatars.githubusercontent.com/u/65410458",
+  "categories": [
+    {
+      "slug": "web-development",
+      "topics": ["Mern", "Typescript", "Shopify"]
+    }
+  ],
+  "contacts": {
+    "twitter": "SunnyUnik"
+  }
+}
